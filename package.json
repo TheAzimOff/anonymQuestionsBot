@@ -1,0 +1,27 @@
+{
+  "name": "telegram",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "prisma:init": "prisma init",
+    "prisma:migrate": "prisma migrate dev --preview-feature",
+    "prisma:generate": "prisma generate",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.14.0",
+    "config": "^3.3.9",
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prisma": "^4.14.1"
+  }
+}
