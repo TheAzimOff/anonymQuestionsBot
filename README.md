@@ -19,8 +19,8 @@ This is a Telegram bot built with [Telegraf.js](https://telegraf.js.org/) that a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/anonymous-questions-bot.git
-   cd anonymous-questions-bot
+   git clone https://github.com/TheAzimOff/anonymQuestionsBot.git
+   cd anonymQuestionsBot
    ```
 
 2. Install dependencies:
