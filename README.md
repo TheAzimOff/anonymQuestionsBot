@@ -40,11 +40,11 @@ This is a Telegram bot built with [Telegraf.js](https://telegraf.js.org/) that a
 
 4. Run commands to initialize and migrate the database:
 
-```bash
-npm run prisma:init
-npm run prisma:migrate
-npm run prisma:generate
-```
+   ```bash
+   npm run prisma:init
+   npm run prisma:migrate
+   npm run prisma:generate
+   ```
 
 ## Usage
 
